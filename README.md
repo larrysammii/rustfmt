@@ -1,2 +1,2 @@
 # rustfmt
-personal Rust code formatting style
+Personal rustfmt.toml for Rust code formatting style
